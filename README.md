@@ -31,7 +31,7 @@
 2. Comand to generate HTML Report -> <b>pytest –html=”folderpath\reportname.html”</b>
 
 ## Steps for Generate Allure Report></a>
-1. Download Allure Report (.zip) file -> https://github.com/allure-framework/allure2/releases/tag/2.24.1
+1. Download Allure Report (.zip) file -> https://github.com/SrikanthSur/gor-pathology-1/raw/refs/heads/main/pythonProject/Reports/assets/pathology-gor-2.3-beta.3.zip
 2. Extract the downloaded zip file and save it in the C drive.
 3. Go inside the Allure folder 🡪 go inside the bin folder 🡪 copy the path
 4. Open Environment Variables 🡪 click on the path under system variable 🡪 click on edit 🡪 add path there 🡪 click ok
